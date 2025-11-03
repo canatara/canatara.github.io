@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
     "objectID": "index.html",
@@ -28,39 +14,11 @@
     "text": "I am a Flatiron Research Fellow in the NeuroAI and Geometric Data Analysis Lab led by SueYeon Chung at Flatiron Institute’s Center for Computational Neuroscience. I received my PhD in Physics in 2022 from Harvard University, where I worked on deep learning theory under the supervision of Cengiz Pehlevan. Before that, I earned my M.Sc. in Physics and B.Sc. in Electronics Engineering from Sabancı University.\n\nCurrent Research\nMy research lies at the intersection of neuroscience, machine learning, and physics, with a focus on understanding how the brain processes and represents natural stimuli. I develop theoretical frameworks and computational models to study neural representations of sensory inputs. I apply tools from statistical mechanics, random matrix theory, and deep learning to uncover the principles underlying neural computation and perception.\nI am particularly interested in:\n\nNeural representation of natural stimuli and their geometric structure\nInformation processing in biological and artificial neural networks\nDevelopment of robust tools for describing representational geometry\nStatistical physics of learning and neural computation\n\n\n\nSelected Publications\nSpectral Analysis of Representational Similarity with Limited Neurons\nHyunmo Kang*, Abdulkadir Canatar*, and SueYeon Chung\nAdvances in Neural Information Processing Systems, 2025 Link\nEstimating Neural Representation Alignment from Sparsely Sampled Inputs and Features\nChanwoo Chun*, Abdulkadir Canatar*, SueYeon Chung, and Daniel Lee\n8th Annual Conference on Cognitive Computational Neuroscience, 2025 Link\nStatistical mechanics of support vector regression\nAbdulkadir Canatar and SueYeon Chung\nPhysical Review E, 2025 Link\nA Spectral Theory of Neural Prediction and Alignment\nAbdulkadir Canatar*, Jenelle Feather*, Albert Wakhloo, and SueYeon Chung\nAdvances in Neural Information Processing Systems, 36, 2024 Link\nOut-of-distribution generalization in kernel regression\nAbdulkadir Canatar, Blake Bordelon, and Cengiz Pehlevan\nAdvances in Neural Information Processing Systems, 2021 Link\nSpectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks\nAbdulkadir Canatar, Blake Bordelon, and Cengiz Pehlevan\nNature Communications, 2021 Link\n\n\nContact\nOffice: 160 Fifth Ave, New York, NY 10010\nEmail: acanatar@flatironinstitute.org"
   },
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "CV",
-    "section": "",
-    "text": "Download full CV (PDF)\n\nEducation\n\nPh.D., Physics, Harvard University\nM.S., Physics, Sabanci University\nB.S., Electronics Engineering, Sabanci University\n\n\n\nAppointments\n\nResearch Fellow, Flatiron Institute (CCN)"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
     "text": "Estimating Dimensionality of Neural Representations from Finite Samples\nChanwoo Chun*, Abdulkadir Canatar*, SueYeon Chung, and Daniel Lee\narXiv preprint arXiv:2509.26560, 2025 Link\nSpectral Analysis of Representational Similarity with Limited Neurons\nHyunmo Kang*, Abdulkadir Canatar*, and SueYeon Chung\nAdvances in Neural Information Processing Systems, 2025 Link\nEstimating Neural Representation Alignment from Sparsely Sampled Inputs and Features\nChanwoo Chun*, Abdulkadir Canatar*, SueYeon Chung, and Daniel Lee\n8th Annual Conference on Cognitive Computational Neuroscience, 2025 Link\nStatistical mechanics of support vector regression\nAbdulkadir Canatar and SueYeon Chung\nPhysical Review E, 2025 Link"
-  },
-  {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
-    "section": "",
-    "text": "Title, Venue (Year). slides · video"
-  },
-  {
-    "objectID": "publications/publications.html",
-    "href": "publications/publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Below is a generated list from my BibTeX.\n\n\n\n\n\n\n\nReferences\n\nBordelon, Blake, Abdulkadir Canatar, and Cengiz Pehlevan. 2020. “Spectrum Dependent Learning Curves in Kernel Regression and Wide Neural Networks.” In Proceedings of the 37th International Conference on Machine Learning, 1024–34.\n\n\nCanatar, Abdulkadir. 2022. “Statistical Mechanics of Generalization in Kernel Regression and Wide Neural Networks.” PhD thesis, Harvard University.\n\n\nCanatar, Abdulkadir, Blake Bordelon, and Cengiz Pehlevan. 2021a. “Out-of-Distribution Generalization in Kernel Regression.” Advances in Neural Information Processing Systems 34: 12600–12612.\n\n\n———. 2021b. “Spectral Bias and Task-Model Alignment Explain Generalization in Kernel Regression and Infinitely Wide Neural Networks.” Nature Communications 12 (1): 1–12.\n\n\nCanatar, Abdulkadir, and SueYeon Chung. 2025. “Statistical Mechanics of Support Vector Regression.” Physical Review E 112 (2): 025301.\n\n\nCanatar, Abdulkadir, and Cengiz Pehlevan. 2022. “A Kernel Analysis of Feature Learning in Deep Neural Networks.” In 2022 58th Annual Allerton Conference on Communication, Control, and Computing (Allerton), 1–8. IEEE.\n\n\nCanatar, Abdulkadir, Evan Peters, Cengiz Pehlevan, Stefan M Wild, and Ruslan Shaydulin. 2022. “Bandwidth Enables Generalization in Quantum Kernel Models.” Transactions on Machine Learning Research.\n\n\nCanatar*, Abdulkadir, Jenelle Feather*, Albert Wakhloo, and SueYeon Chung. 2024. “A Spectral Theory of Neural Prediction and Alignment.” Advances in Neural Information Processing Systems 36.\n\n\nChun*, Chanwoo, Abdulkadir Canatar*, SueYeon Chung, and Daniel Lee. 2025a. “Estimating Dimensionality of Neural Representations from Finite Samples.” arXiv Preprint arXiv:2509.26560.\n\n\n———. 2025b. “Estimating Neural Representation Alignment from Sparsely Sampled Inputs and Features.” In 8th Annual Conference on Cognitive Computational Neuroscience. https://openreview.net/forum?id=J5gRYqAXnv.\n\n\nKang*, Hyunmo, Abdulkadir Canatar*, and SueYeon Chung. 2025. “Spectral Analysis of Representational Similarity with Limited Neurons.” Advances in Neural Information Processing Systems [In press].\n\n\nZavatone-Veth, Jacob A, Abdulkadir Canatar, Benjamin S Ruben, and Cengiz Pehlevan. 2022. “Asymptotics of Representation Learning in Finite Bayesian Neural Networks.” Journal of Statistical Mechanics: Theory and Experiment 2022 (11): 114008. http://dx.doi.org/10.1088/1742-5468/ac98a6.\n\n\nZavatone-Veth, Jacob, Abdulkadir Canatar, Ben Ruben, and Cengiz Pehlevan. 2021. “Asymptotics of Representation Learning in Finite Bayesian Neural Networks.” Advances in Neural Information Processing Systems 34: 24765–77."
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "2025-10-31 — Paper accepted to NeurIPS Workshop on XYZ\n2025-09-18 — Gave a talk at PNI Seminar"
   },
   {
     "objectID": "publications.html#section",
@@ -96,75 +54,5 @@
     "title": "Publications",
     "section": "2020",
     "text": "2020\nSpectrum Dependent Learning Curves in Kernel Regression and Wide Neural Networks\nBlake Bordelon, Abdulkadir Canatar, and Cengiz Pehlevan\nProceedings of the 37th International Conference on Machine Learning, 2020 Link\n\n*Equal contribution indicated by asterisk (*)"
-  },
-  {
-    "objectID": "publications.html#title-publications",
-    "href": "publications.html#title-publications",
-    "title": "Publications",
-    "section": "title: “Publications”",
-    "text": "title: “Publications”\nStatistical Mechanics of Generalization in Kernel Regression and Wide Neural Networks\nAbdulkadir Canatar\nPhD Thesis, Harvard University, 2022 Link\nA Kernel Analysis of Feature Learning in Deep Neural Networks\nAbdulkadir Canatar and Cengiz Pehlevan\n58th Annual Allerton Conference on Communication, Control, and Computing (Allerton), 2022 Link\nBandwidth Enables Generalization in Quantum Kernel Models\nAbdulkadir Canatar, Evan Peters, Cengiz Pehlevan, Stefan M. Wild, and Ruslan Shaydulin\nTransactions on Machine Learning Research, 2022 Link"
-  },
-  {
-    "objectID": "publications.html#section-5",
-    "href": "publications.html#section-5",
-    "title": "Publications",
-    "section": "2020",
-    "text": "2020\nSpectrum Dependent Learning Curves in Kernel Regression and Wide Neural Networks\nBlake Bordelon, Abdulkadir Canatar, and Cengiz Pehlevan\nProceedings of the 37th International Conference on Machine Learning, 2020 Link\n\n*Equal contribution indicated by asterisk (*)"
-  },
-  {
-    "objectID": "publications.html#title-2022",
-    "href": "publications.html#title-2022",
-    "title": "Publications",
-    "section": "title: “2022”",
-    "text": "title: “2022”\nStatistical Mechanics of Generalization in Kernel Regression and Wide Neural Networks\nAbdulkadir Canatar\nPhD Thesis, Harvard University, 2022 Link\nA Kernel Analysis of Feature Learning in Deep Neural Networks\nAbdulkadir Canatar and Cengiz Pehlevan\n58th Annual Allerton Conference on Communication, Control, and Computing (Allerton), 2022 Link\nBandwidth Enables Generalization in Quantum Kernel Models\nAbdulkadir Canatar, Evan Peters, Cengiz Pehlevan, Stefan M. Wild, and Ruslan Shaydulin\nTransactions on Machine Learning Research, 2022 Link"
-  },
-  {
-    "objectID": "publications.html#link",
-    "href": "publications.html#link",
-    "title": "Publications",
-    "section": "2022 link",
-    "text": "2022 link\nStatistical Mechanics of Generalization in Kernel Regression and Wide Neural Networks\nAbdulkadir Canatar\nPhD Thesis, Harvard University, 2022 Link\nA Kernel Analysis of Feature Learning in Deep Neural Networks\nAbdulkadir Canatar and Cengiz Pehlevan\n58th Annual Allerton Conference on Communication, Control, and Computing (Allerton), 2022 Link\nBandwidth Enables Generalization in Quantum Kernel Models\nAbdulkadir Canatar, Evan Peters, Cengiz Pehlevan, Stefan M. Wild, and Ruslan Shaydulin\nTransactions on Machine Learning Research, 2022 Link"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
-  },
-  {
-    "objectID": "index.html#section",
-    "href": "index.html#section",
-    "title": "Abdulkadir Canatar",
-    "section": "2020",
-    "text": "2020\nSpectrum Dependent Learning Curves in Kernel Regression and Wide Neural Networks\nBlake Bordelon, Abdulkadir Canatar, and Cengiz Pehlevan\nProceedings of the 37th International Conference on Machine Learning, 2020 Link\n\n*Equal contribution indicated by asterisk (*)\n\nContact\nOffice: 160 Fifth Ave, New York, NY 10010\nEmail: acanatar@flatironinstitute.org"
-  },
-  {
-    "objectID": "index.html#section-1",
-    "href": "index.html#section-1",
-    "title": "Abdulkadir Canatar",
-    "section": "2020",
-    "text": "2020\nSpectrum Dependent Learning Curves in Kernel Regression and Wide Neural Networks\nBlake Bordelon, Abdulkadir Canatar, and Cengiz Pehlevan\nProceedings of the 37th International Conference on Machine Learning, 2020 Link\n\n*Equal contribution indicated by asterisk (*)\n\nContact\nOffice: 160 Fifth Ave, New York, NY 10010\nEmail: acanatar@flatironinstitute.org"
-  },
-  {
-    "objectID": "index.html#section-2",
-    "href": "index.html#section-2",
-    "title": "Abdulkadir Canatar",
-    "section": "2020",
-    "text": "2020\nSpectrum Dependent Learning Curves in Kernel Regression and Wide Neural Networks\nBlake Bordelon, Abdulkadir Canatar, and Cengiz Pehlevan\nProceedings of the 37th International Conference on Machine Learning, 2020 Link\n\n*Equal contribution indicated by asterisk (*)\n\nContact\nOffice: 160 Fifth Ave, New York, NY 10010\nEmail: acanatar@flatironinstitute.org"
-  },
-  {
-    "objectID": "index.html#section-3",
-    "href": "index.html#section-3",
-    "title": "Abdulkadir Canatar",
-    "section": "2020",
-    "text": "2020\nSpectrum Dependent Learning Curves in Kernel Regression and Wide Neural Networks\nBlake Bordelon, Abdulkadir Canatar, and Cengiz Pehlevan\nProceedings of the 37th International Conference on Machine Learning, 2020 Link\n\n*Equal contribution indicated by asterisk (*)\n\nContact\nOffice: 160 Fifth Ave, New York, NY 10010\nEmail: acanatar@flatironinstitute.org"
-  },
-  {
-    "objectID": "index.html#section-4",
-    "href": "index.html#section-4",
-    "title": "Abdulkadir Canatar",
-    "section": "2020",
-    "text": "2020\nSpectrum Dependent Learning Curves in Kernel Regression and Wide Neural Networks\nBlake Bordelon, Abdulkadir Canatar, and Cengiz Pehlevan\nProceedings of the 37th International Conference on Machine Learning, 2020 Link\n\n*Equal contribution indicated by asterisk (*)\n\nContact\nOffice: 160 Fifth Ave, New York, NY 10010\nEmail: acanatar@flatironinstitute.org"
   }
 ]
