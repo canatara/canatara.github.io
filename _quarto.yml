@@ -12,6 +12,7 @@ website:
     image: profile.jpg
     page-navigation: false
     search: false
+    google-analytics: G-59DYNC14NL
     navbar:
         left:
             - text: CV
