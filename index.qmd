@@ -1,0 +1,62 @@
+---
+title: "Abdulkadir Canatar"
+image: profile.avif
+about:
+    template: marquee
+    image-width: 10em
+    image-shape: round
+---
+
+<!-- ### About Me -->
+
+I am a Flatiron Research Fellow in the [NeuroAI and Geometric Data Analysis Lab](https://www.sychunglab.org/) led by [SueYeon Chung](https://sites.google.com/site/sueyeonchung) at [Flatiron Institute](https://www.simonsfoundation.org/flatiron/)'s [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/). I received my PhD in Physics in 2022 from [Harvard University](https://www.physics.harvard.edu/), where I worked on deep learning theory under the supervision of [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan).
+Before that, I earned my M.Sc. in Physics and B.Sc. in Electronics Engineering from [Sabancı University](https://www.sabanciuniv.edu/en).
+
+### Current Research
+
+My research lies at the intersection of neuroscience, machine learning, and physics, with a focus on understanding how the brain processes and represents natural stimuli. I develop theoretical frameworks and computational models to study neural representations of sensory inputs. I apply tools from statistical mechanics, random matrix theory, and deep learning to uncover the principles underlying neural computation and perception.
+
+I am particularly interested in:
+
+-   Neural representation of natural stimuli and their geometric structure
+-   Information processing in biological and artificial neural networks
+-   Development of robust tools for describing representational geometry
+-   Statistical physics of learning and neural computation
+
+### Selected Publications
+
+**Spectral Analysis of Representational Similarity with Limited Neurons**  
+Hyunmo Kang\*, **Abdulkadir Canatar**\*, and SueYeon Chung  
+_Advances in Neural Information Processing Systems_, 2025
+[Link](https://arxiv.org/abs/2502.19648)
+
+**Estimating Neural Representation Alignment from Sparsely Sampled Inputs and Features**  
+Chanwoo Chun\*, **Abdulkadir Canatar**\*, SueYeon Chung, and Daniel Lee  
+_8th Annual Conference on Cognitive Computational Neuroscience_, 2025
+[Link](https://arxiv.org/abs/2502.15104)
+
+**Statistical mechanics of support vector regression**  
+**Abdulkadir Canatar** and SueYeon Chung  
+_Physical Review E_, 2025
+[Link](https://arxiv.org/abs/2412.05439)
+
+**A Spectral Theory of Neural Prediction and Alignment**  
+**Abdulkadir Canatar**\*, Jenelle Feather\*, Albert Wakhloo, and SueYeon Chung  
+_Advances in Neural Information Processing Systems_, 36, 2024
+[Link](https://arxiv.org/abs/2309.12821)
+
+**Out-of-distribution generalization in kernel regression**  
+**Abdulkadir Canatar**, Blake Bordelon, and Cengiz Pehlevan  
+_Advances in Neural Information Processing Systems_, 2021
+[Link](https://arxiv.org/abs/2106.02261)
+
+**Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks**  
+**Abdulkadir Canatar**, Blake Bordelon, and Cengiz Pehlevan  
+_Nature Communications_, 2021
+[Link](https://arxiv.org/abs/2006.13198)
+
+### Contact
+
+**Office**: 160 Fifth Ave, New York, NY 10010
+
+**Email**: acanatar@flatironinstitute.org

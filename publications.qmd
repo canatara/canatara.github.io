@@ -1,0 +1,77 @@
+---
+title: "Publications"
+---
+
+## 2025
+
+**Estimating Dimensionality of Neural Representations from Finite Samples**  
+Chanwoo Chun\*, **Abdulkadir Canatar**\*, SueYeon Chung, and Daniel Lee  
+_arXiv preprint arXiv:2509.26560_, 2025
+[Link](https://arxiv.org/abs/2509.26560)
+
+**Spectral Analysis of Representational Similarity with Limited Neurons**  
+Hyunmo Kang\*, **Abdulkadir Canatar**\*, and SueYeon Chung  
+_Advances in Neural Information Processing Systems_, 2025
+[Link](https://arxiv.org/abs/2502.19648)
+
+**Estimating Neural Representation Alignment from Sparsely Sampled Inputs and Features**  
+Chanwoo Chun\*, **Abdulkadir Canatar**\*, SueYeon Chung, and Daniel Lee  
+_8th Annual Conference on Cognitive Computational Neuroscience_, 2025
+[Link](https://arxiv.org/abs/2502.15104)
+
+**Statistical mechanics of support vector regression**  
+**Abdulkadir Canatar** and SueYeon Chung  
+_Physical Review E_, 2025
+[Link](https://arxiv.org/abs/2412.05439)
+
+## 2024
+
+**A Spectral Theory of Neural Prediction and Alignment**  
+**Abdulkadir Canatar**\*, Jenelle Feather\*, Albert Wakhloo, and SueYeon Chung  
+_Advances in Neural Information Processing Systems_, 36, 2024
+[Link](https://arxiv.org/abs/2309.12821)
+
+## 2022
+
+**Statistical Mechanics of Generalization in Kernel Regression and Wide Neural Networks**  
+**Abdulkadir Canatar**  
+PhD Thesis, Harvard University, 2022
+[Link](https://www.proquest.com/openview/0e260611e765ff51948933c3e78f8866/1?pq-origsite=gscholar&cbl=18750&diss=y)
+
+**A Kernel Analysis of Feature Learning in Deep Neural Networks**  
+**Abdulkadir Canatar** and Cengiz Pehlevan  
+_58th Annual Allerton Conference on Communication, Control, and Computing (Allerton)_, 2022
+[Link](https://projects.iq.harvard.edu/files/pehlevan/files/canatarpehlevan_allerton_2022.pdf)
+
+**Bandwidth Enables Generalization in Quantum Kernel Models**  
+**Abdulkadir Canatar**, Evan Peters, Cengiz Pehlevan, Stefan M. Wild, and Ruslan Shaydulin  
+_Transactions on Machine Learning Research_, 2022
+[Link](https://arxiv.org/abs/2206.06686)
+
+## 2021
+
+**Asymptotics of representation learning in finite Bayesian neural networks**  
+Jacob Zavatone-Veth, **Abdulkadir Canatar**, Ben Ruben, and Cengiz Pehlevan  
+_Advances in Neural Information Processing Systems_, 2021
+[Link](https://arxiv.org/abs/2106.00651)
+
+**Out-of-distribution generalization in kernel regression**  
+**Abdulkadir Canatar**, Blake Bordelon, and Cengiz Pehlevan  
+_Advances in Neural Information Processing Systems_, 2021
+[Link](https://arxiv.org/abs/2106.02261)
+
+**Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks**  
+**Abdulkadir Canatar**, Blake Bordelon, and Cengiz Pehlevan  
+_Nature Communications_, 2021
+[Link](https://arxiv.org/abs/2006.13198)
+
+## 2020
+
+**Spectrum Dependent Learning Curves in Kernel Regression and Wide Neural Networks**  
+Blake Bordelon, **Abdulkadir Canatar**, and Cengiz Pehlevan  
+_Proceedings of the 37th International Conference on Machine Learning_, 2020
+[Link](https://arxiv.org/abs/2002.02561)
+
+---
+
+\*Equal contribution indicated by asterisk (\*)
