@@ -10,6 +10,7 @@ website:
     title: "Abdulkadir Canatar"
     description: "Personal Webpage"
     site-url: https://canatara.github.io/
+    repo-url: https://github.com/canatara/canatara.github.io
     search: false
     google-analytics: G-59DYNC14NL
     page-navigation: false
