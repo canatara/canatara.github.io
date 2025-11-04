@@ -9,6 +9,7 @@ project:
 website:
     title: "Abdulkadir Canatar"
     description: "Personal Webpage"
+    site-url: https://canatara.github.io/
     image: profile.jpg
     page-navigation: false
     search: false
