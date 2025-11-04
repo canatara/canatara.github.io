@@ -10,10 +10,11 @@ website:
     title: "Abdulkadir Canatar"
     description: "Personal Webpage"
     site-url: https://canatara.github.io/
-    image: profile.jpg
-    page-navigation: false
     search: false
     google-analytics: G-59DYNC14NL
+    page-navigation: false
+    page-footer:
+        center: "© 2025 Abdulkadir Canatar. All rights reserved."
     navbar:
         left:
             - text: CV
