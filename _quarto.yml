@@ -25,14 +25,19 @@ website:
         right:
             - text: "{{< ai google-scholar-square >}}"
               href: https://scholar.google.com/citations?user=_F4TER8AAAAJ
+              target: _blank
             - icon: github
               href: https://github.com/canatara
+              target: _blank
             - icon: linkedin
               href: https://www.linkedin.com/in/canatara/
+              target: _blank
             - icon: twitter-x
               href: https://x.com/canatar_a
+              target: _blank
             - text: "{{< ai orcid >}}"
               href: https://orcid.org/0000-0002-0140-5718
+              target: _blank
 
 format:
     html:
