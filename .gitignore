@@ -2,6 +2,6 @@
 notes.txt
 old
 .DS_Store
-
+blog
 /.quarto/
 **/*.quarto_ipynb
