@@ -5,6 +5,9 @@ project:
         browser: true
     resources:
         - CV_canatara.pdf
+    render:
+        - "*.qmd"
+        - "!blog"
 
 website:
     title: "Abdulkadir Canatar"
@@ -14,6 +17,7 @@ website:
     search: false
     google-analytics: G-59DYNC14NL
     page-navigation: false
+    back-to-top-navigation: true
     page-footer:
         center: "© 2025 Abdulkadir Canatar. All rights reserved."
     navbar:
