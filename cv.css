@@ -1,0 +1,54 @@
+/* Make the title look like a header */
+/* h1.title {
+    font-weight: 700;
+    color: #2c3e50;
+    margin-bottom: 0.2em;
+  }
+  
+  /* Subtitle/Author styling */
+  .quarto-title-meta-heading {
+    display: none; /* Hide standard metadata labels */
+  }
+  
+  /* Clean up the link colors */
+  a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Add some spacing to the lists */
+  ul {
+    margin-bottom: 1.5rem;
+  } */
+
+  /* Primary Color (Navy Blue) */
+h1, h2, h3, h4, a {
+  color: #003366;
+}
+
+/* Accent Color (Orange) for lines */
+h2 {
+  border-bottom: 2px solid #D35400;
+  padding-bottom: 5px;
+  margin-top: 1.5em;
+}
+
+/* Download Button */
+.btn-primary {
+  background-color: #003366;
+  border-color: #003366;
+}
+
+/* Spacing for lists */
+ul {
+  padding-left: 1.2em;
+}
+
+/* Make the title huge and centered like the LaTeX version */
+#title-block-header {
+  text-align: center;
+}
