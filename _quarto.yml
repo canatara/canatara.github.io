@@ -12,6 +12,7 @@ project:
 website:
     title: "Abdulkadir Canatar"
     description: "Personal Webpage"
+    favicon: favicon.svg
     site-url: https://canatara.github.io/
     repo-url: https://github.com/canatara/canatara.github.io
     search: false
@@ -23,9 +24,9 @@ website:
         center: "© 2025 Abdulkadir Canatar. All rights reserved."
     navbar:
         title: "Abdulkadir Canatar"
+        logo: favicon.svg
+        logo-href: index.qmd
         left:
-            - text: Home
-              href: index.qmd
             - text: CV
               href: cv.qmd
             - text: Publications

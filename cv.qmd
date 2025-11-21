@@ -76,57 +76,59 @@ Center for Computational Neuroscience, Flatiron Institute\\
 
 # Publications
 
-1. **Sample-Size-Invariant Measure of Dimensionality** Chanwoo Chun*, **Abdulkadir Canatar***, SueYeon Chung and Daniel D. Lee — ***2025 (In Submission)*** (*Equal Contribution)
+*Equal Contribution indicated by asterisk (\*)*
 
-2. **Spectral Analysis of Representational Similarity with Limited Neurons** Hyunmo Kang*, **Abdulkadir Canatar*** and SueYeon Chung — ***NeurIPS, 2025*** (*Equal Contribution)
+1. **Sample-Size-Invariant Measure of Dimensionality** </br> Chanwoo Chun\*, **Abdulkadir Canatar**\*, SueYeon Chung and Daniel D. Lee — ***2025 (In Submission)*** 
+   
+2. **Spectral Analysis of Representational Similarity with Limited Neurons** </br> Hyunmo Kang\*, **Abdulkadir Canatar**\* and SueYeon Chung — ***NeurIPS, 2025***
 
-3. **Estimating Neural Representation Alignment from Limited Inputs and Features** Chanwoo Chun*, **Abdulkadir Canatar***, SueYeon Chung and Daniel D. Lee — ***CCN, 2025*** (*Equal Contribution)
+3. **Estimating Neural Representation Alignment from Limited Inputs and Features** </br> Chanwoo Chun\*, **Abdulkadir Canatar**\*, SueYeon Chung and Daniel D. Lee — ***CCN, 2025***
 
-4. **Statistical Mechanics of Support Vector Regression** **Abdulkadir Canatar** and SueYeon Chung — ***Physical Review E, 2025***
+4. **Statistical Mechanics of Support Vector Regression** </br> **Abdulkadir Canatar** and SueYeon Chung — ***Physical Review E, 2025***
 
-5. **A Spectral Theory of Neural Prediction and Alignment** **Abdulkadir Canatar***, Jenelle Feather*, Albert Wakhloo, and SueYeon Chung — ***NeurIPS, 2023 (Spotlight)*** (*Equal Contribution)
+5. **A Spectral Theory of Neural Prediction and Alignment** </br> **Abdulkadir Canatar***, Jenelle Feather*, Albert Wakhloo, and SueYeon Chung — ***NeurIPS, 2023 (Spotlight)***
 
-6. **Bandwidth Enables Generalization in Quantum Kernel Models** **Abdulkadir Canatar**, Evan Peters, Cengiz Pehlevan, Stefan M. Wild and Ruslan Shaydulin — ***TMLR, 2023***
+6. **Bandwidth Enables Generalization in Quantum Kernel Models** </br> **Abdulkadir Canatar**, Evan Peters, Cengiz Pehlevan, Stefan M. Wild and Ruslan Shaydulin — ***TMLR, 2023***
 
-7. **A Kernel Analysis of Feature Learning in Deep Neural Networks** **Abdulkadir Canatar** and Cengiz Pehlevan — ***58th Annual Allerton Conference, 2022***
+7. **A Kernel Analysis of Feature Learning in Deep Neural Networks** </br> **Abdulkadir Canatar** and Cengiz Pehlevan — ***58th Annual Allerton Conference, 2022***
 
-8. **Asymptotics of representation learning in finite Bayesian neural networks** Jacob Zavatone-Veth, **Abdulkadir Canatar**, Benjamin S. Ruben and Cengiz Pehlevan — ***NeurIPS, 2021***
+8. **Asymptotics of representation learning in finite Bayesian neural networks** </br> Jacob Zavatone-Veth, **Abdulkadir Canatar**, Benjamin S. Ruben and Cengiz Pehlevan — ***NeurIPS, 2021***
 
-9. **Out-of-Distribution Generalization in Kernel Regression** **Abdulkadir Canatar**, Blake Bordelon and Cengiz Pehlevan — ***NeurIPS, 2021***
+9.  **Out-of-Distribution Generalization in Kernel Regression** </br> **Abdulkadir Canatar**, Blake Bordelon and Cengiz Pehlevan — ***NeurIPS, 2021***
 
-10. **Spectral Bias and Task-Model Alignment Explain Generalization in Kernel Regression and Infinitely Wide Neural Networks** **Abdulkadir Canatar**, Blake Bordelon and Cengiz Pehlevan — ***Nature Communications, 2021***
+10. **Spectral Bias and Task-Model Alignment Explain Generalization in Kernel Regression and Infinitely Wide Neural Networks** </br> **Abdulkadir Canatar**, Blake Bordelon and Cengiz Pehlevan — ***Nature Communications, 2021***
 
-11. **Strong localization in suspended monolayer graphene by intervalley scattering** Cenk Yanik, Vahid Sazgari, **Abdulkadir Canatar** and İsmet İ. Kaya — ***Physical Review B, 2021***
+11. **Strong localization in suspended monolayer graphene by intervalley scattering** </br> Cenk Yanik, Vahid Sazgari, **Abdulkadir Canatar** and İsmet İ. Kaya — ***Physical Review B, 2021***
 
-12. **Spectrum Dependent Learning Curves in Kernel Regression and Wide Neural Networks** Blake Bordelon, **Abdulkadir Canatar** and Cengiz Pehlevan — ***ICML, 2020***
+12. **Spectrum Dependent Learning Curves in Kernel Regression and Wide Neural Networks** </br> Blake Bordelon, **Abdulkadir Canatar** and Cengiz Pehlevan — ***ICML, 2020***
 
 # Conference Talks/Posters
 
-- **Spectral Analysis of Representational Similarity with Limited Neurons** COSYNE 2025 (Poster)
+- **Spectral Analysis of Representational Similarity with Limited Neurons** </br> COSYNE 2025 (Poster)
 
-- **A Spectral Theory of Neural Prediction and Alignment** COSYNE 2024 (Poster)
+- **A Spectral Theory of Neural Prediction and Alignment** </br> COSYNE 2024 (Poster)
 
-- **Out-of-Distribution Generalization in Kernel Regression** INFORMS 2023 (Invited Talk)
+- **Out-of-Distribution Generalization in Kernel Regression** </br> INFORMS 2023 (Invited Talk)
 
-- **Statistical Mechanics of Generalization in Kernel Regression and Wide Neural Networks** APS March Meeting 2022 (Talk)
+- **Statistical Mechanics of Generalization in Kernel Regression and Wide Neural Networks** </br> APS March Meeting 2022 (Talk)
 
-- **Statistical Mechanics of Generalization in Kernel Regression** DeepMath 2020 (Talk)
+- **Statistical Mechanics of Generalization in Kernel Regression** </br> DeepMath 2020 (Talk)
 
-- **A theory of generalization in kernel regression and wide neural networks** Neuromatch 2020 (Talk)
+- **A theory of generalization in kernel regression and wide neural networks** </br> Neuromatch 2020 (Talk)
 
 # Teaching
 
 **Harvard University** | Teaching Assistant
 
-- **APMATH 50 - Introduction to Applied Mathematics** (Spring 2020--2021, Spring 2021--2022)
+- **APMATH 50 - Introduction to Applied Mathematics** </br> (Spring 2020--2021, Spring 2021--2022)
   
-- **APMATH 226 - Neural Computation** (Fall 2020--2021, Fall 2021--2022)
+- **APMATH 226 - Neural Computation** </br> (Fall 2020--2021, Fall 2021--2022)
   
-- **PS 2 - Mechanics, Elasticity, Fluids, and Diffusion** (Fall 2019--2020)
+- **PS 2 - Mechanics, Elasticity, Fluids, and Diffusion** </br> (Fall 2019--2020)
   
-- **PS 12a - Mechanics from an Analytic and Numerical Perspective** (Spring 2018--2020)
+- **PS 12a - Mechanics from an Analytic and Numerical Perspective** </br> (Spring 2018--2020)
   
-- **PHYS 232 - Advanced Electromagnetism** (Fall 2017--2018)
+- **PHYS 232 - Advanced Electromagnetism** </br> (Fall 2017--2018)
 
 # Technical Skills
 
