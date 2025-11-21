@@ -3,8 +3,8 @@ project:
     output-dir: docs
     preview:
         browser: true
-    resources:
-        - CV_canatara.pdf
+    # resources:
+    #     - CV_canatara.pdf
     render:
         - "*.qmd"
         - "!blog"
@@ -18,10 +18,14 @@ website:
     google-analytics: G-59DYNC14NL
     page-navigation: false
     back-to-top-navigation: true
+    bread-crumbs: false
     page-footer:
         center: "© 2025 Abdulkadir Canatar. All rights reserved."
     navbar:
+        title: "Abdulkadir Canatar"
         left:
+            - text: Home
+              href: index.qmd
             - text: CV
               href: cv.qmd
             - text: Publications

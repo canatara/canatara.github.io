@@ -1,13 +1,142 @@
 ---
-title: "CV"
+# title: "Abdulkadir Canatar"
+format:
+  html:
+    css: cv.css
+    theme: cosmo
+    toc: true
+    toc-location: right
+    format-links: true
+  pdf:
+    pdf-engine: pdflatex
+    geometry:
+      - margin=0.75in
+    colorlinks: true
+    keep-tex: false
+    include-in-header: 
+      text: |
+        \usepackage{fontawesome5}
+        \usepackage{academicons}
+        \usepackage{titlesec}
+        \usepackage{xcolor}
+        \usepackage{helvet}
+        \definecolor{primary}{HTML}{003366}
+        \definecolor{secondary}{HTML}{0055A4}
+        \definecolor{accent}{HTML}{D35400}
+        \titleformat{\section}{\color{primary}\normalfont\Large\bfseries}{}{0em}{}[\color{accent}\titlerule]
+        \titleformat{\subsection}{\color{secondary}\normalfont\large\bfseries}{}{0em}{}
 ---
 
-<!-- Solution from https://github.com/orgs/quarto-dev/discussions/7918#discussioncomment-8032565 -->
+::: {.content-visible when-format="pdf"}
+\begin{center}
+{\LARGE \textbf{\color{primary} Abdulkadir Canatar}} \\
+Center for Computational Neuroscience, Flatiron Institute\\
+160 5th Avenue, New York, NY 10010\\[0.5em]
+\faUser\ \href{https://canatara.github.io}{canatara.github.io} \quad 
+\faEnvelope\ \href{mailto:canatara@gmail.com}{canatara@gmail.com} \quad
+\faGithub\ \href{https://github.com/canatara}{GitHub} \quad
+\aiGoogleScholar\ \href{https://scholar.google.com/citations?user=_F4TER8AAAAJ}{Google Scholar}
+\end{center}
+:::
 
-```{=html}
-<object data="CV_canatara.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
-    <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="CV_canatara.pdf">click here to
-    download the PDF file.</a></p>
-</object>
-```
+::: {.content-visible when-format="html"}
+ <center>
+<h1><strong>Abdulkadir Canatar</strong></h1>
+
+<strong>Flatiron Institute</strong> | Center for Computational Neuroscience | New York, NY
+ </center>
+:::
+
+# Education
+
+**Harvard University** | Cambridge, MA  
+*Ph.D. in Physics* | 2016--2022  
+- Thesis: *Statistical mechanics of generalization in kernel regression and wide neural networks*
+
+**Sabancı University** | Istanbul, Turkey  
+*M.Sc. in Physics* | 2015--2016  
+- Thesis: *Fabrication and characterization of suspended graphene devices*
+
+**Sabancı University** | Istanbul, Turkey  
+*B.Sc. in Electronics Engineering* | 2010--2015
+
+# Research & Professional Experience
+
+**Flatiron Institute -- Simons Foundation** | New York, NY  
+*Flatiron Research Fellow* | 2022 -- Present  
+- Supervisor: Prof. SueYeon Chung
+
+**Harvard University** | Cambridge, MA  
+*Teaching & Research Assistant* | 2017 -- 2022  
+- Supervisor: Prof. Cengiz Pehlevan
+
+**Sabancı University** | Istanbul, Turkey  
+*Undergraduate & Masters Researcher* | 2012 -- 2016  
+- Supervisor: Prof. İsmet İnönü Kaya
+
+# Publications
+
+1. **Sample-Size-Invariant Measure of Dimensionality** Chanwoo Chun*, **Abdulkadir Canatar***, SueYeon Chung and Daniel D. Lee — ***2025 (In Submission)*** (*Equal Contribution)
+
+2. **Spectral Analysis of Representational Similarity with Limited Neurons** Hyunmo Kang*, **Abdulkadir Canatar*** and SueYeon Chung — ***NeurIPS, 2025*** (*Equal Contribution)
+
+3. **Estimating Neural Representation Alignment from Limited Inputs and Features** Chanwoo Chun*, **Abdulkadir Canatar***, SueYeon Chung and Daniel D. Lee — ***CCN, 2025*** (*Equal Contribution)
+
+4. **Statistical Mechanics of Support Vector Regression** **Abdulkadir Canatar** and SueYeon Chung — ***Physical Review E, 2025***
+
+5. **A Spectral Theory of Neural Prediction and Alignment** **Abdulkadir Canatar***, Jenelle Feather*, Albert Wakhloo, and SueYeon Chung — ***NeurIPS, 2023 (Spotlight)*** (*Equal Contribution)
+
+6. **Bandwidth Enables Generalization in Quantum Kernel Models** **Abdulkadir Canatar**, Evan Peters, Cengiz Pehlevan, Stefan M. Wild and Ruslan Shaydulin — ***TMLR, 2023***
+
+7. **A Kernel Analysis of Feature Learning in Deep Neural Networks** **Abdulkadir Canatar** and Cengiz Pehlevan — ***58th Annual Allerton Conference, 2022***
+
+8. **Asymptotics of representation learning in finite Bayesian neural networks** Jacob Zavatone-Veth, **Abdulkadir Canatar**, Benjamin S. Ruben and Cengiz Pehlevan — ***NeurIPS, 2021***
+
+9. **Out-of-Distribution Generalization in Kernel Regression** **Abdulkadir Canatar**, Blake Bordelon and Cengiz Pehlevan — ***NeurIPS, 2021***
+
+10. **Spectral Bias and Task-Model Alignment Explain Generalization in Kernel Regression and Infinitely Wide Neural Networks** **Abdulkadir Canatar**, Blake Bordelon and Cengiz Pehlevan — ***Nature Communications, 2021***
+
+11. **Strong localization in suspended monolayer graphene by intervalley scattering** Cenk Yanik, Vahid Sazgari, **Abdulkadir Canatar** and İsmet İ. Kaya — ***Physical Review B, 2021***
+
+12. **Spectrum Dependent Learning Curves in Kernel Regression and Wide Neural Networks** Blake Bordelon, **Abdulkadir Canatar** and Cengiz Pehlevan — ***ICML, 2020***
+
+# Conference Talks/Posters
+
+- **Spectral Analysis of Representational Similarity with Limited Neurons** COSYNE 2025 (Poster)
+
+- **A Spectral Theory of Neural Prediction and Alignment** COSYNE 2024 (Poster)
+
+- **Out-of-Distribution Generalization in Kernel Regression** INFORMS 2023 (Invited Talk)
+
+- **Statistical Mechanics of Generalization in Kernel Regression and Wide Neural Networks** APS March Meeting 2022 (Talk)
+
+- **Statistical Mechanics of Generalization in Kernel Regression** DeepMath 2020 (Talk)
+
+- **A theory of generalization in kernel regression and wide neural networks** Neuromatch 2020 (Talk)
+
+# Teaching
+
+**Harvard University** | Teaching Assistant
+
+- **APMATH 50 - Introduction to Applied Mathematics** (Spring 2020--2021, Spring 2021--2022)
+  
+- **APMATH 226 - Neural Computation** (Fall 2020--2021, Fall 2021--2022)
+  
+- **PS 2 - Mechanics, Elasticity, Fluids, and Diffusion** (Fall 2019--2020)
+  
+- **PS 12a - Mechanics from an Analytic and Numerical Perspective** (Spring 2018--2020)
+  
+- **PHYS 232 - Advanced Electromagnetism** (Fall 2017--2018)
+
+# Technical Skills
+
+- **Programming:** Python (PyTorch, JAX, NumPy, SciPy, Pandas), Mathematica, SLURM
+- **Research:** Statistical physics, computational neuroscience, machine learning theory
+
+# Awards & Scholarships
+
+- **Derek Bok Center (Harvard)** -- Certificate of Distinction in Teaching Awards (Multiple Terms)
+  
+- **Harvard University** -- Purcell Fellowship (2016--2017)
+  
+- **Sabancı University** -- Dean's High Honor List & Honors Scholarship (2010--2016)
